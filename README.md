@@ -1,6 +1,4 @@
 # Disease-prediction-ML
----
-
 ## Dataset Description
 
 - **132 binary symptom columns**: e.g., `Symptom_1`, `Symptom_2`, ..., `Symptom_132`
